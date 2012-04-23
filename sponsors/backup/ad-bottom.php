@@ -1,0 +1,1 @@
+<img src="images/guild4power2.gif" height="90px" width="564px" style="margin-left:15px; margin-top:10px; margin-bottom:-10px; border:dashed #FFF 1px;" />

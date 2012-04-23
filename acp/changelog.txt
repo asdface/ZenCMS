@@ -1,0 +1,211 @@
+Mage:
+
+   1. ColdSnap
+   2. Missile Barrage
+   3. Hot Streak
+   4. Brain Freeze
+   5. Fingers of Frost
+   6. Arcane Blast
+   7. Improved Blizzard
+   8. Ice Lance
+   9. Blazing Speed
+  10. Frostbyte
+  11. Improved Scorch
+  12. Frost Warding
+  13. Conjure Refreshment Table
+  14. Hypothermia
+  15. Permafrost
+
+
+Paladin:
+
+   1. Seal of Righteousness
+   2. Holy Shock
+   3. Reckoning
+   4. Judgements of the Wise
+   5. Blessed Life
+   6. Light's Grace
+   7. Spiritual Attunement
+   8. Seal of Justice
+   9. Improved Lay on Hands
+  10. Forbearance
+  11. Infusion of Light
+
+Hunter:
+
+   1. Refocus
+   2. Readiness
+
+Rogues:
+
+   1. Preparation
+   2. Blade Twisting
+   3. Waylay
+   4. Garrote
+   5. Find Weakness
+   6. Camouflage
+   7. Vanish
+   8. Blind
+   9. Mace Specialization
+  10. Shadowstep
+  11. Seal Fate
+  12. Improved Sprint
+  13. Garrot
+  14. Rupture
+  15. Relentless Strikes
+  16. Initiative
+  17. Killing Spree
+
+Shamans:
+
+   1. Rockbiter Weapon
+   2. Elemental Mastery
+   3. Elemental Focus
+   4. Stormstrike
+   5. Eye of the Storm
+   6. Shamanistic Focus
+   7. Improved Chain Heal
+   8. Improved Weapon Totems
+   9. Improved Fire Totems
+  10. Totem of Survival
+  11. Totem of Indomitability
+  12. Totem of Third WInd
+  13. Elemental Weapons
+  14. Tidal Waves
+  15. Earthliving Weapon
+  16. Maelstrom Weapon
+  17. Unleashed Rage
+  18. Elemental Devastation
+  19. Ancestral healing
+  20. Wrath of air totem
+
+Warrios:
+
+   1. Charge
+   2. Execute
+   3. Bloodrage (partly)
+   4. Juggernaut
+   5. Trauma
+   6. Taste for Blood
+   7. Wrecking Crew
+   8. Deep Wounds
+   9. Improved Hamstring
+  10. Retaliation
+  11. Second Wind
+  12. Sudden Death
+  13. Overpower
+  14. Tactical Master
+  15. Heroic Throw
+  16. Blood Frenzy
+  17. Rend
+  18. Slam
+  19. Bloodsurge
+  20. Furious Attacks
+  21. Enrage
+  22. Blood Craze
+  23. Bloodthirst
+  24. Rampage
+  25. Berserker Rage
+  26. Improved Berserker Rage
+  27. Unbridled Wrath
+  28. Heroic Fury
+  29. Sword and Board
+  30. Safeguard
+  31. Improved Defensive Stance
+  32. Damage Shield
+  33. Improved Revenge
+  34. Intervene
+  35. Gag Order
+  36. Shockwave
+  37. Sunder Armor effect for Devastate
+
+Preist:
+
+   1. Prayer of mending
+   2. Spirit Tap
+   3. Holy Nova
+   4. Holy Concentration
+   5. Blessed Recovery
+   6. Blessed Resilience
+   7. Focused Will
+   8. Shadowguard
+   9. Wand Specialization
+  10. Inspiration proc spell
+  11. Surge of light
+  12. Reflective Shield
+  13. Mind Sear
+  14. Weakened Soul
+  15. Penance
+  16. Lightwell
+  17. Grace
+
+Warlocks:
+
+   1. Unstable Affliction
+   2. Eradication
+   3. Everlasting Affliction
+   4. Molten Core
+   5. Backlash
+   6. Demonic Knowledge
+   7. Seed of Corruption
+   8. Soul link
+   9. Nightfall
+  10. Shadow Trance
+  11. Empowered Corruption
+  12. Improved Enslave Demon
+  13. Demonic Sacrifice
+  14. Demonic Tactics
+  15. Demonic Resilience
+  16. Improved Imp
+  17. Improved Voidwalker
+  18. Improved Succubus
+  19. Fel Intellect
+  20. Fel Stamina
+  21. Demonic Tactics
+  22. Unholy Power
+  23. Master Demonologist
+  24. Improved Drain Soul
+  25. Shadow Embrace
+  26. Soul leech
+  27. Pyroclasm
+  28. Chaos bolt
+  29. Backdraft
+
+Druid:
+
+   1. Natural Reaction
+   2. Infected Wounds
+   3. Bash
+   4. Maim
+   5. Feral Swiftness
+   6. Frenzied Regeneration
+   7. Improved Leader of the Pack
+   8. Primal Fury ~ talent
+   9. Blood Frenzy
+  10. Primal Fury
+  11. Natural Shapeshifter
+  12. Intensity
+  13. Natural Perfection
+  14. Omen of Clarity
+  15. Tree Form Aura
+  16. Nature's Grace
+  17. Earth
+  18. Nature's Grasp
+
+Other:
+
+   1. Vestige of Haldor
+   2. Forge Ember
+   3. Mirror of Truth
+   4. Majestic Dragon Figurine
+   5. Flow of Knowledge
+   6. Embrace of the Spider
+   7. Anvil of Titans
+   8. Soul of the Dead
+   9. Illustration of the Dragon Soul
+  10. Grim Toll
+  11. Fury of the Five Flights
+  12. Bandit's Insignia
+  13. Meteorite Whetstone
+  14. Sonic Booster
+  15. Added missing title: INVISIBLE_NAME
