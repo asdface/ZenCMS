@@ -1,4 +1,0 @@
-ZenCMS
-======
-
-ZenCMS_WOW
